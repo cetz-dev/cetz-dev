@@ -79,36 +79,43 @@
 
 <br>
 
-## <b> MEDIOS DE CONTACTO</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
-</ul>
-</div>
+## <b> MEDIOS DE CONTACTO</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<br>
+
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.com/users/1276725603785248781" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="50" alt="Discord">
+  </a>
+  <br>
+  <b>Discord:</b> 1276725603785248781
+</p>
+
+<br>
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:cetz000a@gmail.com" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail.svg" width="50" alt="Gmail">
+  </a>
+  <br>
+  <b>Email:</b> cetz000a@gmail.com
+</p>
+
+<br>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="50" alt="LinkedIn">
+  </a>
+  <br>
+  <b>LinkedIn:</b> [Tu perfil](https://www.linkedin.com/in/tuperfil)
+</p>
+
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
