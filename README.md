@@ -96,24 +96,6 @@
 
 <br>
 
-<!-- Gmail -->
-<p align="center">
-  <a href="mailto:cetz000a@gmail.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail.svg" width="50" alt="Gmail">
-  </a>
-</p>
-
-<br>
-
-<!-- LinkedIn -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="50" alt="LinkedIn">
-  </a>
-</p>
-
-
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
