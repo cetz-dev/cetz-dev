@@ -20,11 +20,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 💻 Desarrollador de software apasionado con experiencia en diversos rubros.
+- 🎨 Persona creativa e ingeniosa, siempre buscando innovar en proyectos digitales.
+- 📖 Actualmente ampliando mis habilidades en el desarrollo full-stack y diseño gráfico.
+- 🔗 Mi sitio personal: [Enlace a tu sitio personal](https://www.tupagina.com)
+- 💼 Mi Linkedin: [Tu perfil de GitHub](https://github.com/tuusuario)
+- 📨 Mi Correo: [Correo](cetz000a@gmail.com)
+- 🚀 Disponible para colaborar en proyectos con amplia disponibilidad laboral.
+
 
 <br><br>
 
