@@ -79,45 +79,51 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+</p>
 
-	
-## <b> MEDIOS DE CONTACTO</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<h2 align="center"><b>MEDIOS DE CONTACTO</b></h2>
 <br>
 
+<!-- Discord -->
 <p align="center">
-  <!-- Discord -->
   <a href="https://discord.com/users/1276725603785248781" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="50" alt="Discord">
   </a>
   <br>
-  <b>Discord:</b> 1276725603785248781
+  <b>Discord:</b> 
+  <a href="https://discord.com/users/1276725603785248781" target="_blank">1276725603785248781</a>
 </p>
 
 <br>
 
+<!-- Gmail -->
 <p align="center">
-  <!-- Gmail -->
   <a href="mailto:cetz000a@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail.svg" width="50" alt="Gmail">
   </a>
   <br>
-  <b>Email:</b> cetz000a@gmail.com
+  <b>Email:</b> 
+  <a href="mailto:cetz000a@gmail.com" target="_blank">cetz000a@gmail.com</a>
 </p>
 
 <br>
 
+<!-- LinkedIn -->
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="50" alt="LinkedIn">
   </a>
   <br>
-  <b>LinkedIn:</b> [Tu perfil](https://www.linkedin.com/in/tuperfil)
+  <b>LinkedIn:</b> 
+  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">[Tu perfil]</a>
 </p>
 
 
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
