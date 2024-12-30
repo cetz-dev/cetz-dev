@@ -36,31 +36,37 @@
 
 <p align="center">
 
-- **Backend**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br>   
-    
-- **Front-End**:
-
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    
-<br>
-
-- **Colaborativo | Herramientas**:
-
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **Backend**:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50" alt="Python">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="50" alt="Node.js">
+</p>
 
 <br>
 
-- **Bases de Datos**:
+### **Bases de Datos**:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="50" alt="MongoDB">
+</p>
 
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+
+### **Front-End**:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" alt="HTML5">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" alt="CSS3">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="50" alt="JavaScript">
+</p>
+
+<br>
+
+### **Colaborativo | Herramientas**:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="50" alt="GitHub">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="50" alt="Visual Studio Code">
+</p>
+
+<br>
 
 </p>
 
