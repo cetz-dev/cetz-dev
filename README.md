@@ -23,10 +23,12 @@
 - 💻 Desarrollador de software apasionado con experiencia en diversos rubros.
 - 🎨 Persona creativa e ingeniosa, siempre buscando innovar en proyectos digitales.
 - 📖 Actualmente ampliando mis habilidades en el desarrollo full-stack y diseño gráfico.
-- 🔗 Mi sitio personal: [Enlace a tu sitio personal](https://www.tupagina.com)
-- 💼 Mi Linkedin: [Tu perfil de GitHub](https://github.com/tuusuario)
-- 📨 Mi Correo: [Correo](cetz000a@gmail.com)
+- 🌐 Mi sitio personal: [Enlace a tu sitio personal](https://github.com/cetz-dev)
+- 💬 Mi Discord: [cetz-dev en Discord](https://discord.com/users/1276725603785248781) <!-- Reemplaza "tuID" con tu ID de Discord -->
+- 📨 Mi Correo: [cetz000a@gmail.com](mailto:cetz000a@gmail.com)
+- 💼 Mi LinkedIn: [Mi perfil en LinkedIn](https://www.linkedin.com/in/tuperfil) <!-- Reemplaza "tuperfil" con tu URL -->
 - 🚀 Disponible para colaborar en proyectos con amplia disponibilidad laboral.
+
 
 
 <br><br>
