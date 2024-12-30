@@ -85,7 +85,6 @@
 </p>
 
 <h2 align="center"><b>MEDIOS DE CONTACTO</b></h2>
-<br>
 
 <!-- Discord -->
 <p align="center">
