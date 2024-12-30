@@ -10,12 +10,6 @@
 
 ## **SOBRE MÍ**
 
-<picture> 
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
-
-
 <br>
 
 - 💻 Desarrollador de software apasionado con experiencia en diversos rubros.
