@@ -30,7 +30,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Keyboard-Dark.svg" width="50">
 </p>
 
 <h2 align="center">
@@ -71,6 +71,7 @@
 
 <br>
 <br>
+
 
 
 
