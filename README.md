@@ -39,7 +39,7 @@
 
 <br>
 
-### **Backend**:
+### <p align="center"><b>Backend:</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50" alt="Python">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="50" alt="Node.js">
@@ -47,14 +47,14 @@
 
 <br>
 
-### **Bases de Datos**:
+### <p align="center"><b>Bases de Datos:</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="50" alt="MongoDB">
 </p>
 
 <br>
 
-### **Front-End**:
+### <p align="center"><b>Front-End:</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" alt="HTML5">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" alt="CSS3">
@@ -63,7 +63,7 @@
 
 <br>
 
-### **Colaborativo | Herramientas**:
+### <p align="center"><b>Colaborativo | Herramientas:</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="50" alt="GitHub">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="50" alt="Visual Studio Code">
@@ -71,6 +71,7 @@
 
 <br>
 <br>
+
 
 
 -----
