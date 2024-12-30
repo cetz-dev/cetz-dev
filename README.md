@@ -79,6 +79,7 @@
 
 <br>
 
+
 <p align="center">
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 </p>
@@ -91,9 +92,6 @@
   <a href="https://discord.com/users/1276725603785248781" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="50" alt="Discord">
   </a>
-  <br>
-  <b>Discord:</b> 
-  <a href="https://discord.com/users/1276725603785248781" target="_blank">1276725603785248781</a>
 </p>
 
 <br>
@@ -103,9 +101,6 @@
   <a href="mailto:cetz000a@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail.svg" width="50" alt="Gmail">
   </a>
-  <br>
-  <b>Email:</b> 
-  <a href="mailto:cetz000a@gmail.com" target="_blank">cetz000a@gmail.com</a>
 </p>
 
 <br>
@@ -115,9 +110,6 @@
   <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="50" alt="LinkedIn">
   </a>
-  <br>
-  <b>LinkedIn:</b> 
-  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">[Tu perfil]</a>
 </p>
 
 
