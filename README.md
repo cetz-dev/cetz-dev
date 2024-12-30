@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Full+Stack+Developer;Disponible+para+trabajar;Si+lo+puedes+imaginar,+lo+puedes+crear">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Full+Stack+Developer;Disponible+para+trabajar;Si+lo+puedes+imaginar,+lo+puedes+crear">
   </a>
 </p>
 
@@ -22,6 +22,7 @@
 - 📨 Mi Correo: [Contactar](mailto:cetz000a@gmail.com)
 - 💼 Mi LinkedIn: [Ingresar](https://www.linkedin.com/in/tuperfil)
 - 🚀 Disponible para colaborar en proyectos con amplia disponibilidad laboral.
+
 
 
 
