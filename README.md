@@ -34,17 +34,3 @@
   
 </p>
 
-
-
------
-
-
-<h2 align="center"><b>CONTACTO</b></h2>
-
-
-<p align="center">
-  <a href="https://discord.com/users/1276725603785248781" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="50" alt="Discord">
-  </a>
-</p>
-
