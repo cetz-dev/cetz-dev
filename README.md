@@ -34,10 +34,6 @@
   
 </p>
 
-
-
-
-<br>
 <br>
 
 
@@ -60,21 +56,3 @@
   </a>
 </p>
 
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-
-<div align='center'>
-
-## <b>Si lo puedes imaginar, lo puedes crear...🍃</b>
-
-</div>
-<br>
-
-
----
-
-<br>
