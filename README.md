@@ -5,7 +5,7 @@
 
 ## **SOBRE MÍ**
 
-<br>
+
 
 - Desarrollador de Software enfocado en Game Dev y Web 
 
