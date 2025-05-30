@@ -33,18 +33,14 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="50" alt="MongoDB">
 </p>
 
-<br>
 
-### <p align="center"><b>Front-End</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" alt="HTML5">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" alt="CSS3">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="50" alt="JavaScript">
 </p>
 
-<br>
 
-### <p align="center"><b>Colaborativo | Herramientas</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="50" alt="GitHub">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="50" alt="Visual Studio Code">
