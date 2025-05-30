@@ -1,10 +1,5 @@
 <h1 align="center"><b>Hola, soy Cetz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Full+Stack+Developer;Disponible+para+trabajar;Si+lo+puedes+imaginar,+lo+puedes+crear">
-  </a>
-</p>
 
 <br>
 
@@ -12,17 +7,7 @@
 
 <br>
 
-- 💻 Desarrollador de software apasionado con experiencia en diversos rubros.
-- 🎨 Persona creativa e ingeniosa, siempre buscando innovar en proyectos digitales.
-- 📖 Actualmente ampliando mis habilidades en el desarrollo full-stack y diseño gráfico.
-- 🌐 Mi sitio personal: [Ingresar](https://github.com/cetz-dev)
-- 💬 Mi Discord: [Contactar](https://discord.com/users/1276725603785248781)
-- 📨 Mi Correo: [Contactar](mailto:cetz000a@gmail.com)
-- 💼 Mi LinkedIn: [Ingresar](https://www.linkedin.com/in/tuperfil)
-- 🚀 Disponible para colaborar en proyectos con amplia disponibilidad laboral.
-
-
-
+- Desarrollador de Software enfocado en Game Dev y Web 
 
 
 <br>
