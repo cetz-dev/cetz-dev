@@ -13,13 +13,7 @@
 <br>
 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
-</p>
-
-<h2 align="center">
-  <b>LENGUAJES</b>
-</h2>
+## **TECNOLOGÍAS**
 
 <br>
 
@@ -27,6 +21,8 @@
    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" alt="HTML5">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" alt="CSS3">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="50" alt="JavaScript">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="50" alt="React">
+  
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50" alt="Python">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="50" alt="Node.js">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="50" alt="MongoDB">
