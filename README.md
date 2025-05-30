@@ -29,9 +29,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="50" alt="Node.js">
 </p>
 
-<br>
-
-### <p align="center"><b>Bases de Datos</b></p>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="50" alt="MongoDB">
 </p>
