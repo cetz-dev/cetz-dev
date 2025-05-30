@@ -40,14 +40,8 @@
 
 -----
 
-<br>
 
-
-<p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-</p>
-
-<h2 align="center"><b>MEDIOS DE CONTACTO</b></h2>
+<h2 align="center"><b>CONTACTO</b></h2>
 
 <!-- Discord -->
 <p align="center">
