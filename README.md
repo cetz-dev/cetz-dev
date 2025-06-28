@@ -2,7 +2,7 @@
 
 <br> <br>
 
-Soy un Desarrollador de Software enfocado en el Game Dev, Web, Mobile, Desktop
+Soy un Desarrollador de Software enfocado en el Game Dev, Web, Mobile, Desktop | TEST UPDATE
 
 
 <br>
