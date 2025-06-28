@@ -1,12 +1,8 @@
-<h1 align="center"><b>Hola, soy Cetz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Cetz</b> </h1>
 
 <br> <br>
 
-# **SOBRE MÍ**
-
-
-
-- Desarrollador de Software enfocado en Game Dev y Web 
+Soy un Desarrollador de Software enfocado en el Game Dev, Web, Mobile, Desktop
 
 
 <br>
