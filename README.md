@@ -1,8 +1,4 @@
-<h1 align="center"><b>Hola, soy Cetz</b> </h1>
-
-<br> <br>
-
-Soy un Desarrollador de Software enfocado en el Game Dev, Web, Mobile, Desktop
+<h1 align="center"><b>Software Developer</b> </h1>
 
 
 <br>
