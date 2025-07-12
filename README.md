@@ -4,8 +4,6 @@
 <br>
 
 
-## **TECNOLOGÍAS**
-
 <br>
 
 <p align="center">
