@@ -23,6 +23,8 @@
    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="50" alt="GitHub">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="50" alt="Visual Studio Code">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" width="50" alt="Vite">
+  <img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50" alt="Vercel">
+ 
   
 </p>
 
